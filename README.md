@@ -3,6 +3,7 @@
 This project provides a comprehensive analysis of global CO2 emissions using Tableau. The project focuses on profiling and QA of the data, visualizing global emission trends, and building an interactive dashboard for an in-depth exploration of the findings.
 
 Link : https://public.tableau.com/app/profile/vikrant.bhardwaj6142/viz/GlobalCo2Emission_17294217393820/GlobalCO2emission
+![Screenshot (34)](https://github.com/user-attachments/assets/969c1030-973e-4d42-b296-ffa38fcd1e64)
 
 ## Project Objectives
 
